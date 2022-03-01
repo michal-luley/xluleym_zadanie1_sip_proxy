@@ -1,0 +1,29 @@
+01 Mar 2022 17:14:46  : mobil_xiaomi sa zaregistroval
+01 Mar 2022 17:14:53  : mobil_xiaomi sa zaregistroval
+01 Mar 2022 17:14:59  : notebook sa zaregistroval
+01 Mar 2022 17:15:12  : mobil_xiaomi vyzvana notebook 
+01 Mar 2022 17:15:12  : mobil_xiaomi vyzvana notebook 
+01 Mar 2022 17:15:12  : mobil_xiaomi vyzvana notebook 
+01 Mar 2022 17:15:16  : notebook zdvihol hovor
+01 Mar 2022 17:15:27  : notebook zlozil hovor
+-------
+01 Mar 2022 17:16:34  : notebook sa zaregistroval
+01 Mar 2022 17:16:37  : mobil_xiaomi sa zaregistroval
+01 Mar 2022 17:16:49  : mobil_xiaomi vyzvana notebook 
+01 Mar 2022 17:16:53  : notebook zdvihol hovor
+01 Mar 2022 17:17:04  : notebook zlozil hovor
+-------
+01 Mar 2022 18:24:43  : mobil_xiaomi sa zaregistroval
+01 Mar 2022 18:24:45  : mobil_xiaomi sa zaregistroval
+01 Mar 2022 18:24:47  : notebook sa zaregistroval
+01 Mar 2022 18:24:54  : mobil_xiaomi vyzvana notebook 
+01 Mar 2022 18:24:58  : notebook zdvihol hovor
+01 Mar 2022 18:24:58  : notebook zdvihol hovor
+01 Mar 2022 18:25:43  : mobil_xiaomi zlozil hovor
+-------
+01 Mar 2022 18:28:27  : mobil_xiaomi sa zaregistroval
+01 Mar 2022 18:28:29  : notebook sa zaregistroval
+01 Mar 2022 18:28:32  : notebook vyzvana mobil_xiaomi 
+01 Mar 2022 18:28:32  : notebook vyzvana mobil_xiaomi 
+01 Mar 2022 18:28:33  : notebook vyzvana mobil_xiaomi 
+01 Mar 2022 18:28:36  : mobil_xiaomi zdvihol hovor
